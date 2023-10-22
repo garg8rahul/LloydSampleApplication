@@ -1,4 +1,4 @@
-# Android Project Template
+# Lloyd Sample Android Project 
 
 This Android project is a template for building modern Android applications using Kotlin, MVVM architecture, Jetpack Compose, Navigation Component, Retrofit for REST API, Coroutines, State, Flow, Dependency Injection (DI) with Hilt, and unit testing.
 
